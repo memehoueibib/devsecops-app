@@ -2,13 +2,13 @@ name: TP3 DevSecOps CI/CD Pipeline OPTIMIZED
 
 on:
   push:
-    branches: [ main, develop ]
-    paths:
-      - 'tp3/**'
+    branches: [ main, develop, test-pr ]
+    # paths:
+    #   - 'tp3/**'
   pull_request:
     branches: [ main ]
-    paths:
-      - 'tp3/**'
+    # paths:
+    #   - 'tp3/**'
 
 defaults:
   run:
