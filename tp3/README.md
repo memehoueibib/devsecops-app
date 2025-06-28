@@ -84,3 +84,4 @@ B ou autre : Active la version B
 ![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)
 
 # TP3 DevSecOps - Pipeline en action ! 🚀
+🚀 Pipeline test - Sat Jun 28 15:36:39 CEST 2025
