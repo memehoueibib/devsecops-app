@@ -1,0 +1,4 @@
+{"level":"info","message":"Serveur TP3 démarré sur le port 3000","timestamp":"2025-06-28T11:09:00.876Z"}
+{"level":"info","message":"Accès à la page d'accueil","timestamp":"2025-06-28T11:09:00.899Z"}
+{"level":"info","message":"Feature B utilisée","timestamp":"2025-06-28T11:09:00.924Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:09:00.930Z"}

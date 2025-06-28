@@ -1,12 +1,6 @@
-# DevSecOps Application
+# DevSecOps - TPs
 
-## Architecture
-- Backend: Node.js
-- Frontend: React
-- Infrastructure: Terraform + Ansible
-- Orchestration: Kubernetes
-- CI/CD: GitLab CI / GitHub Actions
-- Security: SonarQube, Trivy, OWASP ZAP
+## Structure du repository
 
-## Déploiement
-Voir les instructions dans chaque dossier.
+- **tp2/** : Contenu du TP2 précédent
+- **tp3/** : TP3 - Observabilité, Pratique des 3 Voies & Anticipation
