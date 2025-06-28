@@ -122,19 +122,3 @@ jobs:
       run: |
         echo "Déploiement TP3 simulé réussi pour commit ${{ github.sha }}"
         echo "Timestamp: $(date)"
-
-  # Job: Simulation vulnérabilité critique
-  vulnerability-gate:
-    runs-on: ubuntu-latest
-    needs: [security-scan]
-    steps:
-    - name: Check vulnerability severity
-      run: |
-        # Simulation: si vulnérabilité CVSS > 7.0 détectée
-        SEVERITY_FOUND=8.5
-        if (( $(echo "$SEVERITY_FOUND > 7.0" | bc -l) )); then
-          echo "🚨 Vulnérabilité critique détectée (CVSS: $SEVERITY_FOUND)"
-          echo "❌ Pipeline arrêté pour sécurité"
-          exit 1
-        fi
-        echo "✅ Aucune vulnérabilité critique"

@@ -2,3 +2,51 @@
 {"level":"info","message":"Accès à la page d'accueil","timestamp":"2025-06-28T11:09:00.899Z"}
 {"level":"info","message":"Feature B utilisée","timestamp":"2025-06-28T11:09:00.924Z"}
 {"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:09:00.930Z"}
+{"level":"info","message":"Serveur TP3 démarré sur le port 3000","timestamp":"2025-06-28T11:21:52.052Z"}
+{"level":"info","message":"Accès à la page d'accueil","timestamp":"2025-06-28T11:22:30.133Z"}
+{"level":"info","message":"Feature A utilisée","timestamp":"2025-06-28T11:22:37.300Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:22:49.347Z"}
+{"level":"info","message":"Accès à la page d'accueil","timestamp":"2025-06-28T11:24:31.334Z"}
+{"level":"info","message":"Accès à la page d'accueil","timestamp":"2025-06-28T11:27:37.189Z"}
+{"level":"info","message":"Feature A utilisée","timestamp":"2025-06-28T11:27:43.953Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:28:03.982Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:28:04.020Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:28:04.062Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:28:04.099Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:28:04.132Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:28:04.166Z"}
+{"level":"info","message":"Accès à la page d'accueil","timestamp":"2025-06-28T11:51:40.372Z"}
+{"level":"info","message":"Feature A utilisée","timestamp":"2025-06-28T11:51:46.328Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:51:58.648Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:51:59.215Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:51:59.778Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:52:00.325Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:52:00.872Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:52:01.416Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:52:01.974Z"}
+{"level":"info","message":"Serveur TP3 démarré sur le port 3000","timestamp":"2025-06-28T11:59:10.253Z"}
+{"level":"info","message":"Accès à la page d'accueil","timestamp":"2025-06-28T11:59:20.491Z"}
+{"level":"info","message":"Feature A utilisée","timestamp":"2025-06-28T11:59:30.665Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:59:39.822Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:59:39.862Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:59:39.899Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:59:39.940Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T11:59:39.979Z"}
+{"level":"info","message":"Accès à la page d'accueil","timestamp":"2025-06-28T12:04:05.471Z"}
+{"level":"info","message":"Feature A utilisée","timestamp":"2025-06-28T12:04:05.519Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T12:04:05.569Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T12:04:05.610Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T12:04:05.646Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T12:04:05.693Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T12:04:05.737Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T12:04:05.792Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T13:01:30.752Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T13:01:33.825Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T13:01:52.602Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T13:01:55.655Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T13:01:58.704Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T13:02:01.760Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T13:02:04.822Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T13:02:07.864Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T13:02:10.904Z"}
+{"level":"error","message":"Erreur simulée","timestamp":"2025-06-28T13:02:13.951Z"}

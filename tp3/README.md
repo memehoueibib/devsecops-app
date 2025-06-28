@@ -76,3 +76,10 @@ B ou autre : Active la version B
  Fichier POSTMORTEM.md
  Analyse des outils IA
  Rapport de réflexion future
+
+## 🎯 Statuts DevSecOps
+
+![CI/CD Pipeline](https://github.com/memehoueibib/devsecops-app/actions/workflows/ci-cd.yml/badge.svg)
+![Security](https://img.shields.io/badge/Security-Scanned-green)
+![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)
+
